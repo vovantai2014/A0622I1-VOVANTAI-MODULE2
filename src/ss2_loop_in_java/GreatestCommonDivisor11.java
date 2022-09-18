@@ -2,7 +2,7 @@ package ss2_loop_in_java;
 
 import java.util.Scanner;
 
-public class GreatestCommonDivisor {
+public class GreatestCommonDivisor11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a;
